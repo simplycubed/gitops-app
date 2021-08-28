@@ -1,0 +1,2 @@
+FROM alpine as app
+RUN echo "Migrations Complete!"
